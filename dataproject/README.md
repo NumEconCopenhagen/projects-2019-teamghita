@@ -1,3 +1,3 @@
 # Dataproject
 
-Should contain a short introduction to your project, and show how to produce your results.
+This dataproject tries to analyze and plot some key characteristics from International Council for the Exploration of the Sea (ICES) (ices.dk) for danish fishers from 2006 to 2016. The notebook is self-contained with comments to code and figures and can be run without any additional information. The notebook downloads, unzips and opens a .csv-file from a .zip-folder and afterwards conduct data cleaning methods to present 4 figures (where 1 is interactive) capturing some interesting facts about the danish fishing industry.
