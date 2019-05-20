@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+examproject/exam_2019.ipynb
