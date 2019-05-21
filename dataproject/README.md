@@ -8,4 +8,5 @@ This loades one dataset:
 - ICESCatchDataset2006-2016.xlsx from ices.dk
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation the project requires the following installations:
+
 `pip install plotly`

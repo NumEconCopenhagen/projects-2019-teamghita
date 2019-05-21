@@ -4,7 +4,9 @@ Our modelproject, P vs. Q in environmental policy making, deals with the discuss
 
 The results of the project can be seen from running modelproject.ipynb.
 
-**Dependencies:** Apart from a standard Anaconda Python 3 installation the project requires no further installations.
+**Dependencies:** Apart from a standard Anaconda Python 3 installation the project requires the following installations:
+
+`pip install bokeh`
 
 **Literature:** The literature used for this project can be found in the literatur folder. 
 - Weitzman (1974)
