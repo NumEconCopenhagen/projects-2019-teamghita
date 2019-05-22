@@ -4,9 +4,9 @@ Our exam consists of three parts:
 1. The data analysis project *Fishing data for Denmark*: dataProject.ipynb
 2. The model analysis project *P vs. Q in environmental policy making*: modelproject.ipynb
 3. The exam project, examproject.ipynb, consisting of three questions:
-    i. Human capital accumulation
-    ii. AS-AD model
-    iii. Exchange economy
+    1. Human capital accumulation
+    2. AS-AD model
+    3. Exchange economy
 
 The projects can be found in the ipynb-files given above.
 
